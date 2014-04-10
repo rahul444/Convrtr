@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Convrtr</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_image_description">Title Image</string>
+    <string name="motto">the world\'s first calculator for the people</string>
+    <string name="swipe_to_start">swipe to start</string>
+
+</resources>
