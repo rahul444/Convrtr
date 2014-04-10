@@ -16,8 +16,8 @@ public class MainActivity extends ActionBarActivity {
 		setContentView(R.layout.activity_main);
 		mMottoTextView = (TextView)findViewById(R.id.motto_text_view);
 		mSlideToStartTextView = (TextView)findViewById(R.id.swipe_to_start_text_view);
-		setFont(mMottoTextView, "STHeiti Light.ttc");
-		setFont(mSlideToStartTextView,"STHeiti Light.ttc");
+		//setFont(mMottoTextView, "STHeiti Light.ttc");
+		//setFont(mSlideToStartTextView,"STHeiti Light.ttc");
 		mMottoTextView.setTextColor(getResources().getColor(R.color.motto_text_color));
 	}
 	
